@@ -504,7 +504,7 @@ nav {
     right: 0;
     z-index: 1;
     display: none;
-    background: linear-gradient(to right,#00093c, #2d0b00);
+    background-color: rgb(115, 5, 5);
   }
   
   .dropdown-content a {
