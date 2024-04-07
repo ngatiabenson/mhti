@@ -123,6 +123,7 @@ nav-img{
 h1{
     font-size: 36px;
     font-weight: 600;
+    margin-top: 150px;
 }
 
 p{
@@ -284,7 +285,7 @@ h3{
   }
 
 .departments-col:hover {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
   
   .departments-col img {
@@ -353,7 +354,7 @@ col-5{
 .footer{
     width: 100%;
     bottom: 0;
-    background: linear-gradient(to right,#00093c, #2d0b00);
+    background-color: rgb(115 5 5);
     color: #ffffff;
     padding: 70px 0 0px ;
     border-top-left-radius: 100px;
@@ -458,7 +459,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(to right,#00093c, #2d0b00);
+    background-color: rgb(115, 5, 5);
     padding: 10px;
     position: fixed;
     width: 100%;
